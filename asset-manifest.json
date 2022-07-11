@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/juno-halving/static/css/main.073c9b0a.css",
-    "main.js": "/juno-halving/static/js/main.78b846aa.js",
+    "main.css": "/juno-halving/static/css/main.db387601.css",
+    "main.js": "/juno-halving/static/js/main.32409df2.js",
     "static/js/787.f271aea3.chunk.js": "/juno-halving/static/js/787.f271aea3.chunk.js",
     "index.html": "/juno-halving/index.html",
-    "main.073c9b0a.css.map": "/juno-halving/static/css/main.073c9b0a.css.map",
-    "main.78b846aa.js.map": "/juno-halving/static/js/main.78b846aa.js.map",
+    "main.db387601.css.map": "/juno-halving/static/css/main.db387601.css.map",
+    "main.32409df2.js.map": "/juno-halving/static/js/main.32409df2.js.map",
     "787.f271aea3.chunk.js.map": "/juno-halving/static/js/787.f271aea3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.78b846aa.js"
+    "static/css/main.db387601.css",
+    "static/js/main.32409df2.js"
   ]
 }
